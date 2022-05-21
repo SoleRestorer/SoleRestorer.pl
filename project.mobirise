@@ -53,9 +53,7 @@
     "mbrsiteDomain": "mhjqwkz3cl",
     "robotsSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@%20V2"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
